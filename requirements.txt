@@ -1,0 +1,14 @@
+lime
+matplotlib
+nltk
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+shap
+torch
+tqdm
+transformers
+truststore
